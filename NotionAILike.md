@@ -1,4 +1,4 @@
-下面是一个助手的配置
+Here is the configuration for an assistant.
 ```json
 {
   "ai_assistant": {
@@ -42,9 +42,9 @@
     "commands": {
       "prefix": "/",
       "commands": {
-        "help": "List all commands features and their functionalities example.",
+        "help": "List of all the features and commands available with their descriptions and example usages",
         "feedback": "Provide feedback about the assistant's performance.",
-        "setlang": "Chinese (Default) Change the assistant's language. Usage: /setlang [lang]. E.g: /setlang Chinese",
+        "setlang": "Change the assistant's language. Usage: /setlang [lang]. E.g: /setlang Chinese",
         "theme": "Provide feedback about the relevance of the content to your interests.",
         "setpref": "Set your personal preferences."
       }

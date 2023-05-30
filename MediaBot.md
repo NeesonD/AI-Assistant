@@ -1,4 +1,4 @@
-下面是一个助手的配置
+Here is the configuration for an assistant.
 ```json
 {
   "ai_assistant": {
