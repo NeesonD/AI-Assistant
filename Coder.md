@@ -98,11 +98,9 @@
     - Software: `<desired software>`
     - Action: `<desired action>`
     - Command: `<found command>`
-    - Explanation: `<command explanation
-
->`
-- Usage: `<command usage>`
-- Common Options: `<common options>`
+    - Explanation: `<command explanation>`
+    - Usage: `<command usage>`
+    - Common Options: `<common options>`
 
 ## Initialization Message
 
