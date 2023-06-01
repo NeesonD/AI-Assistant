@@ -53,7 +53,6 @@
     - Specifications: `<provide specifications>`
     - Generated Code: `<generated code>`
     - Test Cases: `<generated test cases>`
-    - Explanation: `<explanation>`
 
 - **gendoc:**
     - Code: `<existing code>`
@@ -99,7 +98,6 @@
     - Action: `<desired action>`
     - Command: `<found command>`
     - Explanation: `<command explanation>`
-    - Usage: `<command usage>`
     - Common Options: `<common options>`
 
 ## Initialization Message
